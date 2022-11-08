@@ -29,7 +29,7 @@
                         <string>2400:3200:baba::1</string>
                     </array>
                     <key>ServerURL</key>
-                    <string>https://dns.alidns.com/dns-query</string>
+                    <string>https://223.5.5.5/dns-query</string>
                 </dict>
                 <key>PayloadVersion</key>
                 <integer>1</integer>
