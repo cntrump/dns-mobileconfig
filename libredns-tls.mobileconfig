@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Inc//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadDisplayName</key>
+        <string>LibreDNS over TLS</string>
+        <key>PayloadDescription</key>
+        <string>116.202.176.26</string>
+        <key>PayloadUUID</key>
+        <string>FA1C65F8-ADCD-46A6-897A-21ACE58BE687</string>
+        <key>PayloadIdentifier</key>
+        <string>me.lvv.libre.dns-over-tls</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>DNSSettings</key>
+                <dict>
+                    <key>DNSProtocol</key>
+                    <string>TLS</string>
+                    <key>ServerAddresses</key>
+                    <array>
+                        <string>116.202.176.26</string>
+                    </array>
+                    <key>ServerName</key>
+                    <string>dot.libredns.gr</string>
+                </dict>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadDisplayName</key>
+                <string>LibreDNS over TLS</string>
+                <key>PayloadDescription</key>
+                <string>116.202.176.26</string>
+                <key>PayloadIdentifier</key>
+                <string>me.lvv.libre.dns-over-tls</string>
+                <key>PayloadUUID</key>
+                <string>5DA20AD3-8086-4820-8887-A098A390B851</string>
+                <key>PayloadType</key>
+                <string>com.apple.dnsSettings.managed</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
