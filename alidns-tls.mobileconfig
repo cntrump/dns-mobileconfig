@@ -9,7 +9,7 @@
         <key>PayloadDescription</key>
         <string>223.5.5.5, 223.6.6.6&#x000A;2400:3200::1, 2400:3200:baba::1</string>
         <key>PayloadUUID</key>
-        <string>EB748323-9C06-4160-A6C6-063D81774C1B</string>
+        <string>B2548AD0-3BAA-428D-B891-AB768C768E07</string>
         <key>PayloadIdentifier</key>
         <string>me.lvv.dns-over-tls</string>
         <key>PayloadType</key>
