@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Inc//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadDisplayName</key>
+        <string>GoogleDNS over TLS</string>
+        <key>PayloadDescription</key>
+        <string>8.8.8.8, 8.8.4.4&#x000A;2001:4860:4860::8888, 2001:4860:4860::8844</string>
+        <key>PayloadUUID</key>
+        <string>CEA747C1-F748-48C9-9EEE-5F4455871F88</string>
+        <key>PayloadIdentifier</key>
+        <string>me.lvv.google.dns-over-tls</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>DNSSettings</key>
+                <dict>
+                    <key>DNSProtocol</key>
+                    <string>TLS</string>
+                    <key>ServerAddresses</key>
+                    <array>
+                        <string>8.8.8.8</string>
+                        <string>8.8.4.4</string>
+                        <string>2001:4860:4860::8888</string>
+                        <string>2001:4860:4860::8844</string>
+                    </array>
+                    <key>ServerName</key>
+                    <string>dns.google</string>
+                </dict>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadDisplayName</key>
+                <string>GoogleDNS over TLS</string>
+                <key>PayloadDescription</key>
+                <string>8.8.8.8, 8.8.4.4&#x000A;2001:4860:4860::8888, 2001:4860:4860::8844</string>
+                <key>PayloadIdentifier</key>
+                <string>me.lvv.google.dns-over-tls</string>
+                <key>PayloadUUID</key>
+                <string>9A7D6FC1-DE1B-4B2D-B793-EEF8B4199F80</string>
+                <key>PayloadType</key>
+                <string>com.apple.dnsSettings.managed</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
