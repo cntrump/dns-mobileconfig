@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Inc//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadDisplayName</key>
+        <string>AliDNS over TLS</string>
+        <key>PayloadDescription</key>
+        <string>223.5.5.5, 223.6.6.6&#x000A;2400:3200::1, 2400:3200:baba::1</string>
+        <key>PayloadUUID</key>
+        <string>EB748323-9C06-4160-A6C6-063D81774C1B</string>
+        <key>PayloadIdentifier</key>
+        <string>me.lvv.dns-over-tls</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>DNSSettings</key>
+                <dict>
+                    <key>DNSProtocol</key>
+                    <string>TLS</string>
+                    <key>ServerAddresses</key>
+                    <array>
+                        <string>223.5.5.5</string>
+                        <string>223.6.6.6</string>
+                        <string>2400:3200::1</string>
+                        <string>2400:3200:baba::1</string>
+                    </array>
+                    <key>ServerName</key>
+                    <string>dns.alidns.com</string>
+                </dict>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadDisplayName</key>
+                <string>AliDNS over TLS</string>
+                <key>PayloadDescription</key>
+                <string>223.5.5.5, 223.6.6.6&#x000A;2400:3200::1, 2400:3200:baba::1</string>
+                <key>PayloadIdentifier</key>
+                <string>me.lvv.dns-over-tls</string>
+                <key>PayloadUUID</key>
+                <string>55185A2A-9489-4552-BF30-F2B767ED1122</string>
+                <key>PayloadType</key>
+                <string>com.apple.dnsSettings.managed</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
