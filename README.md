@@ -8,7 +8,7 @@ Availability: `iOS 14.0+`, `macOS 11.0+`
 
 ## Install
 
-Enable DoH/T on macOS 13: `System Settings` -> `Network` -> `Filters`, selecte installed DNS settings and enable.
+Enable DoH/T on macOS 13: `System Settings` -> `Network` -> `Filters`, enable installed DNS profile.
 
 ![](screenshot/macos.png)
 
