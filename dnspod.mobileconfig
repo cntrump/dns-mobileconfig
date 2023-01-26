@@ -9,9 +9,9 @@
         <key>PayloadDescription</key>
         <string>119.29.29.29</string>
         <key>PayloadUUID</key>
-        <string>EB748323-9C06-4160-A6C6-063D81774C1B</string>
+        <string>FAD269B6-F9EB-47A1-977F-5445C67103EC</string>
         <key>PayloadIdentifier</key>
-        <string>me.lvv.dns-over-https</string>
+        <string>me.lvv.dnspod.dns-over-https</string>
         <key>PayloadType</key>
         <string>Configuration</string>
         <key>PayloadContent</key>
@@ -35,9 +35,9 @@
                 <key>PayloadDescription</key>
                 <string>119.29.29.29</string>
                 <key>PayloadIdentifier</key>
-                <string>me.lvv.dns-over-https</string>
+                <string>me.lvv.dnspod.dns-over-https</string>
                 <key>PayloadUUID</key>
-                <string>23A3E88A-DC8B-401D-A7D7-C0A32415597C</string>
+                <string>FA0775FA-A8F0-4C4D-BAB6-773C48B53030</string>
                 <key>PayloadType</key>
                 <string>com.apple.dnsSettings.managed</string>
             </dict>

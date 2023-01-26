@@ -9,9 +9,9 @@
         <key>PayloadDescription</key>
         <string>1.1.1.1, 1.0.0.1&#x000A;2606:4700:4700::1111, 2606:4700:4700::1001</string>
         <key>PayloadUUID</key>
-        <string>EB748323-9C06-4160-A6C6-063D81774C1B</string>
+        <string>60EDD1B7-0B2B-4DEA-848B-169932593512</string>
         <key>PayloadIdentifier</key>
-        <string>me.lvv.dns-over-https</string>
+        <string>me.lvv.cloudflare.dns-over-https</string>
         <key>PayloadType</key>
         <string>Configuration</string>
         <key>PayloadContent</key>
@@ -38,9 +38,9 @@
                 <key>PayloadDescription</key>
                 <string>1.1.1.1, 1.0.0.1&#x000A;2606:4700:4700::1111, 2606:4700:4700::1001</string>
                 <key>PayloadIdentifier</key>
-                <string>me.lvv.dns-over-https</string>
+                <string>me.lvv.cloudflare.dns-over-https</string>
                 <key>PayloadUUID</key>
-                <string>23A3E88A-DC8B-401D-A7D7-C0A32415597C</string>
+                <string>C240ED09-B054-4348-B489-DC77D8F4BA7F</string>
                 <key>PayloadType</key>
                 <string>com.apple.dnsSettings.managed</string>
             </dict>

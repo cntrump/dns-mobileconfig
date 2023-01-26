@@ -9,9 +9,9 @@
         <key>PayloadDescription</key>
         <string>223.5.5.5, 223.6.6.6&#x000A;2400:3200::1, 2400:3200:baba::1</string>
         <key>PayloadUUID</key>
-        <string>EB748323-9C06-4160-A6C6-063D81774C1B</string>
+        <string>9DA32DCA-390E-47BE-A007-A633CB034A79</string>
         <key>PayloadIdentifier</key>
-        <string>me.lvv.dns-over-https</string>
+        <string>me.lvv.alibaba.dns-over-https</string>
         <key>PayloadType</key>
         <string>Configuration</string>
         <key>PayloadContent</key>
@@ -38,9 +38,9 @@
                 <key>PayloadDescription</key>
                 <string>223.5.5.5, 223.6.6.6&#x000A;2400:3200::1, 2400:3200:baba::1</string>
                 <key>PayloadIdentifier</key>
-                <string>me.lvv.dns-over-https</string>
+                <string>me.lvv.alibaba.dns-over-https</string>
                 <key>PayloadUUID</key>
-                <string>23A3E88A-DC8B-401D-A7D7-C0A32415597C</string>
+                <string>99E8C661-C7C8-4F2B-A423-053B79C08444</string>
                 <key>PayloadType</key>
                 <string>com.apple.dnsSettings.managed</string>
             </dict>
