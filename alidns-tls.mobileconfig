@@ -9,9 +9,9 @@
         <key>PayloadDescription</key>
         <string>223.5.5.5, 223.6.6.6&#x000A;2400:3200::1, 2400:3200:baba::1</string>
         <key>PayloadUUID</key>
-        <string>B2548AD0-3BAA-428D-B891-AB768C768E07</string>
+        <string>26D6361A-E030-4DBE-BE39-F8CF7BA97C87</string>
         <key>PayloadIdentifier</key>
-        <string>me.lvv.dns-over-tls</string>
+        <string>me.lvv.alibaba.dns-over-tls</string>
         <key>PayloadType</key>
         <string>Configuration</string>
         <key>PayloadContent</key>
@@ -38,7 +38,7 @@
                 <key>PayloadDescription</key>
                 <string>223.5.5.5, 223.6.6.6&#x000A;2400:3200::1, 2400:3200:baba::1</string>
                 <key>PayloadIdentifier</key>
-                <string>me.lvv.dns-over-tls</string>
+                <string>me.lvv.alibaba.dns-over-tls</string>
                 <key>PayloadUUID</key>
                 <string>55185A2A-9489-4552-BF30-F2B767ED1122</string>
                 <key>PayloadType</key>

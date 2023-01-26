@@ -9,9 +9,9 @@
         <key>PayloadDescription</key>
         <string>1.1.1.1, 1.0.0.1&#x000A;2606:4700:4700::1111, 2606:4700:4700::1001</string>
         <key>PayloadUUID</key>
-        <string>B2548AD0-3BAA-428D-B891-AB768C768E07</string>
+        <string>5762BC0F-EE3E-4234-B6DB-FBD663DB753F</string>
         <key>PayloadIdentifier</key>
-        <string>me.lvv.dns-over-tls</string>
+        <string>me.lvv.cloudflare.dns-over-tls</string>
         <key>PayloadType</key>
         <string>Configuration</string>
         <key>PayloadContent</key>
@@ -38,7 +38,7 @@
                 <key>PayloadDescription</key>
                 <string>1.1.1.1, 1.0.0.1&#x000A;2606:4700:4700::1111, 2606:4700:4700::1001</string>
                 <key>PayloadIdentifier</key>
-                <string>me.lvv.dns-over-tls</string>
+                <string>me.lvv.cloudflare.dns-over-tls</string>
                 <key>PayloadUUID</key>
                 <string>4DE7A6CB-D620-464D-9DC3-BC96252DFCD8</string>
                 <key>PayloadType</key>

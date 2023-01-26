@@ -9,9 +9,9 @@
         <key>PayloadDescription</key>
         <string>101.226.4.6, 218.30.118.6&#x000A;123.125.81.6, 140.207.198.6</string>
         <key>PayloadUUID</key>
-        <string>B2548AD0-3BAA-428D-B891-AB768C768E07</string>
+        <string>471DCD34-6B6E-457C-9DAC-551F04B5496B</string>
         <key>PayloadIdentifier</key>
-        <string>me.lvv.dns-over-tls</string>
+        <string>me.lvv.360.dns-over-tls</string>
         <key>PayloadType</key>
         <string>Configuration</string>
         <key>PayloadContent</key>
@@ -38,7 +38,7 @@
                 <key>PayloadDescription</key>
                 <string>101.226.4.6, 218.30.118.6&#x000A;123.125.81.6, 140.207.198.6</string>
                 <key>PayloadIdentifier</key>
-                <string>me.lvv.dns-over-tls</string>
+                <string>me.lvv.360.dns-over-tls</string>
                 <key>PayloadUUID</key>
                 <string>331F4D26-B1C8-414A-AB88-68C9000E50DB</string>
                 <key>PayloadType</key>
