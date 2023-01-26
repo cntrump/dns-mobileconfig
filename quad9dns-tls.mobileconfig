@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Inc//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadDisplayName</key>
+        <string>Quad9 over TLS</string>
+        <key>PayloadDescription</key>
+        <string>9.9.9.9, 149.112.112.112&#x000A;2620:fe::fe, 2620:fe::9</string>
+        <key>PayloadUUID</key>
+        <string>74BC8313-F3D0-4EAE-9294-5DA5F33AA452</string>
+        <key>PayloadIdentifier</key>
+        <string>me.lvv.quad9.dns-over-tls</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>DNSSettings</key>
+                <dict>
+                    <key>DNSProtocol</key>
+                    <string>TLS</string>
+                    <key>ServerAddresses</key>
+                    <array>
+                        <string>9.9.9.9</string>
+                        <string>149.112.112.112</string>
+                        <string>2620:fe::fe</string>
+                        <string>2620:fe::9</string>
+                    </array>
+                    <key>ServerName</key>
+                    <string>dns.quad9.net</string>
+                </dict>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadDisplayName</key>
+                <string>Quad9 over TLS</string>
+                <key>PayloadDescription</key>
+                <string>9.9.9.9, 149.112.112.112&#x000A;2620:fe::fe, 2620:fe::9</string>
+                <key>PayloadIdentifier</key>
+                <string>me.lvv.quad9.dns-over-tls</string>
+                <key>PayloadUUID</key>
+                <string>A1DFF506-F6C5-4EF8-8885-916612F54B95</string>
+                <key>PayloadType</key>
+                <string>com.apple.dnsSettings.managed</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
