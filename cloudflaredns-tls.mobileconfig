@@ -5,9 +5,9 @@
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadDisplayName</key>
-        <string>DNSPod over TLS</string>
+        <string>CloudFlareDNS over TLS</string>
         <key>PayloadDescription</key>
-        <string>1.12.12.12, 120.53.53.53</string>
+        <string>1.1.1.1, 1.0.0.1&#x000A;2606:4700:4700::1111, 2606:4700:4700::1001</string>
         <key>PayloadUUID</key>
         <string>EB748323-9C06-4160-A6C6-063D81774C1B</string>
         <key>PayloadIdentifier</key>
@@ -23,22 +23,24 @@
                     <string>TLS</string>
                     <key>ServerAddresses</key>
                     <array>
-                        <string>1.12.12.12</string>
-                        <string>120.53.53.53</string>
+                        <string>1.1.1.1</string>
+                        <string>1.0.0.1</string>
+                        <string>2606:4700:4700::1111</string>
+                        <string>2606:4700:4700::1001</string>
                     </array>
                     <key>ServerName</key>
-                    <string>dot.pub</string>
+                    <string>one.one.one.one</string>
                 </dict>
                 <key>PayloadVersion</key>
                 <integer>1</integer>
                 <key>PayloadDisplayName</key>
-                <string>DNSPod over TLS</string>
+                <string>CloudFlareDNS over TLS</string>
                 <key>PayloadDescription</key>
-                <string>1.12.12.12, 120.53.53.53</string>
+                <string>1.1.1.1, 1.0.0.1&#x000A;2606:4700:4700::1111, 2606:4700:4700::1001</string>
                 <key>PayloadIdentifier</key>
                 <string>me.lvv.dns-over-tls</string>
                 <key>PayloadUUID</key>
-                <string>7645D63F-165D-48AB-971E-405B6D2495AB</string>
+                <string>4DE7A6CB-D620-464D-9DC3-BC96252DFCD8</string>
                 <key>PayloadType</key>
                 <string>com.apple.dnsSettings.managed</string>
             </dict>
