@@ -7,7 +7,7 @@
         <key>PayloadDisplayName</key>
         <string>DNSPod over HTTPS</string>
         <key>PayloadDescription</key>
-        <string>119.29.29.29</string>
+        <string>119.29.29.29, 2402:4e00::</string>
         <key>PayloadUUID</key>
         <string>FAD269B6-F9EB-47A1-977F-5445C67103EC</string>
         <key>PayloadIdentifier</key>
@@ -24,6 +24,7 @@
                     <key>ServerAddresses</key>
                     <array>
                         <string>119.29.29.29</string>
+                        <string>2402:4e00::</string>
                     </array>
                     <key>ServerURL</key>
                     <string>https://doh.pub/dns-query</string>
@@ -33,7 +34,7 @@
                 <key>PayloadDisplayName</key>
                 <string>DNSPod over HTTPS</string>
                 <key>PayloadDescription</key>
-                <string>119.29.29.29</string>
+                <string>119.29.29.29, 2402:4e00::</string>
                 <key>PayloadIdentifier</key>
                 <string>me.lvv.dnspod.dns-over-https</string>
                 <key>PayloadUUID</key>
