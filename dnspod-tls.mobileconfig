@@ -7,7 +7,7 @@
         <key>PayloadDisplayName</key>
         <string>DNSPod over TLS</string>
         <key>PayloadDescription</key>
-        <string>119.29.29.29, 2402:4e00::</string>
+        <string>1.12.12.12, 120.53.53.53</string>
         <key>PayloadUUID</key>
         <string>381A56CF-22FF-4D91-A951-362CE2B7C49E</string>
         <key>PayloadIdentifier</key>
@@ -23,8 +23,8 @@
                     <string>TLS</string>
                     <key>ServerAddresses</key>
                     <array>
-                        <string>119.29.29.29</string>
-                        <string>2402:4e00::</string>
+                        <string>1.12.12.12</string>
+                        <string>120.53.53.53</string>
                     </array>
                     <key>ServerName</key>
                     <string>dot.pub</string>
@@ -34,7 +34,7 @@
                 <key>PayloadDisplayName</key>
                 <string>DNSPod over TLS</string>
                 <key>PayloadDescription</key>
-                <string>119.29.29.29, 2402:4e00::</string>
+                <string>1.12.12.12, 120.53.53.53</string>
                 <key>PayloadIdentifier</key>
                 <string>me.lvv.dnspod.dns-over-tls</string>
                 <key>PayloadUUID</key>
